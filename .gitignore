@@ -4,3 +4,6 @@ path_to_your_processed_csv_file1.csv
 .gitignore
 medical_specialty_value_counts.csv
 path_to_your_processed_csv_file.csv
+C2T1_Testclean.csv
+Predictions.csv
+randomforest.pkl
